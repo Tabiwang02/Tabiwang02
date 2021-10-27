@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Penetration Testing/Vulnerability Management
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...Open Projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...atabiwang@outlook.com
 
 <!---
 Tabiwang02/Tabiwang02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
